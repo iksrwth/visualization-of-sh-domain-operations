@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using these metadata."
+title: "Visualization of Linear Operations in the Spherical Harmonics Domain"
+authors:
+  - affiliation: "RWTH Aachen University, Institute of Communication Systems (IKS), Germany"
+    family-names: Kentgens
+    given-names: Maximilian
+  - affiliation: "RWTH Aachen University, Institute of Communication Systems (IKS), Germany"
+    family-names: Jax
+    given-names: Peter
+preferred-citation:
+  type: conference-paper
+  title: "Visualization of Linear Operations in the Spherical Harmonics Domain"
+  authors:
+    - affiliation: "RWTH Aachen University, Institute of Communication Systems (IKS), Germany"
+      family-names: Kentgens
+      given-names: Maximilian
+    - affiliation: "RWTH Aachen University, Institute of Communication Systems (IKS), Germany"
+      family-names: Jax
+      given-names: Peter
+  year: 2021
+  conference:
+    name: "International Conference on Immersive and 3D Audio (I3DA)"
+    date-start: 2021-09-08
+    date-end: 2021-08-10
+    location: Bologna, Italy (virtual)
+  doi: 10.1109/I3DA48870.2021.9610968
+  abstract: "Linear operations on coefficients in the spherical harmonics (SH) transform domain that again yield SH-domain coefficients are an important toolset in many disciplines of research and engineering. They comprise rotations, spatially selective filters, and many other modifications for various applications, or describe the response of a MIMO system to an excitation. It is of particular importance to characterize these operations both qualitatively and quantitatively, and make them accessible for people to work with. In this paper, we identify different key properties of such operations and propose a method for their visualization. With our proposed method, we succeed to show many important aspects of an operation in a single plot and give rise to a comprehensive interpretation of the behavior of a system. In our evaluation, we show the potential of the proposed method on the basis of various practical examples from spatial audio signal processing, where SH-domain filtering is used to modify acoustic scenes given by higher-order Ambisonics signals."
+  notes: "Pre-print available arXiv:2104.13069"
+keywords:
+  - "spherical harmonics"
+  - "linear operations"
+  - "spatial filter visualization"
+  - "mimo system visualization"
+  - "higher-order ambisonics"
+url: "https://www.iks.rwth-aachen.de/qr/visualization-of-sh-domain-operations"
+license: CC BY 4.0
